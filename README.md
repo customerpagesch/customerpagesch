@@ -1,0 +1,2 @@
+- auto account for cubehosting pages for customers!
+  - automatically made for anybody's wish!
